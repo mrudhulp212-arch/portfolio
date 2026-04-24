@@ -226,6 +226,9 @@ const Hero = () => {
            <a href="https://github.com" target="_blank" rel="noreferrer" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-white/10 text-white border border-white/20 hover:bg-white hover:text-black transition-all font-bold uppercase tracking-widest text-xs">
               GitHub
            </a>
+           <a href="/Mrudhul_P_Resume.pdf" download="Mrudhul_P_Resume.pdf" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-purple-500/20 text-purple-400 border border-purple-500/50 hover:bg-purple-500 hover:text-white transition-all font-bold uppercase tracking-widest text-xs">
+              Resume 
+           </a>
         </motion.div>
 
       </motion.div>
