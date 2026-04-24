@@ -227,7 +227,7 @@ const Hero = () => {
               GitHub
            </a>
            <a href="/Mrudhul_P_Resume.pdf" download="Mrudhul_P_Resume.pdf" className="flex items-center gap-2 px-6 py-3 rounded-xl bg-purple-500/20 text-purple-400 border border-purple-500/50 hover:bg-purple-500 hover:text-white transition-all font-bold uppercase tracking-widest text-xs">
-              Resume 
+              ↓ Resume
            </a>
         </motion.div>
 
